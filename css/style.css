@@ -20,7 +20,7 @@ body{
 
 .header{
     background-color: #0A0A0A;
-    padding: 18px 0 18px;
+    padding: 20px 0 20px;
     font-size: 24px;
     line-height: 29px;
     color: #717171;
@@ -71,7 +71,7 @@ body{
     margin: 0 0 40px;
     color: #490E84;
     font-weight: 700;
-    font-size: 64px;
+    font-size: 63px;
     line-height: 77px;
 }
 
@@ -153,12 +153,17 @@ body{
     display: flex;
     background-color: #574B63;
     color: #fff;
+    border-radius: 25px 25px 0 0;
 }
 
 .contacts-form{
     width: 100%;
     padding: 140px 89px;
     text-align: center;
+}
+
+.contacts-img{
+    border-radius: 0 25px 0 0;
 }
 
 .contact-title{
@@ -220,7 +225,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 50px 0;
+    padding: 35px 0;
 }
 
 .menu-btn{
