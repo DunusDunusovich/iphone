@@ -71,7 +71,9 @@ body{
 }
 
 .headline-img{
-    margin-bottom: 25px;
+    width: 60%;
+    display: flex;
+    margin: 0 auto 25px auto;
 }
 
 .headline-btn{
